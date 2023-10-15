@@ -15,15 +15,18 @@ Excel and Power BI
 ## Skills demonstrated
 # Data cleaning
 The data cleaning was done on excel. After understanding the business, I then cleaned the datasets and thought about what an ideal dataset should look like for the problem.
-# Data modelling 
+# Modelling 
 After ensuring the data was clean for analysis, I went ahead to model the data into a dataset that can precisely answer the business questions and produce the results needed.
+![Screenshot 2023-10-15 225638](https://github.com/Adekunle123121/Social_buzz/assets/55541028/43b0ad52-ec84-4264-9a2b-e27a9eda3e85)
+The tables were joined together by one to many relationship for ReactionTypes and Reaction tables, and many to one raltionship for Reactions and Content tables.
 # Data analysis 
-With our new dataset, we used our analytical expertise to 
-uncover insights from this dataset and to produce visualizations to describe the 
+With the new data, I used my analytical expertise to 
+uncover insights from the dataset and produced visualizations to describe the 
 insights.
 
-The data cleaning was done on excel
+## Visualization and Dashboard
 
-The data modelling was done on power bi
-Data analysis and Visualization was done on power bi
+
+
+
 
